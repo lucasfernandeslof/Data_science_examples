@@ -1,3 +1,4 @@
 # Data_science_examples
-Code designed to predict the cost of homes in Boston using statistical means such as regressions and decision tree
-All data came from Kaggle
+Sample codes for demonstrating knowledge in the field of Data Science.
+Here you will find examples of Machine Learning, supervised and unsupervised.
+All data is public, and if you are interested in knowing more, you can contact us via Github
